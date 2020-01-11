@@ -17,7 +17,7 @@ pip install gensim
 pip install pandas
 
 # https://www.tensorflow.org/install
-pip install tensorflow
+pip install tensorflow # 2.1
 
 # https://jupyter.readthedocs.io/en/latest/install.html
 pip install jupyter
