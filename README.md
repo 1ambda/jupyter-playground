@@ -11,10 +11,14 @@ pip install konlpy
 pip install nltk
 
 pip install matplotlib
+pip install seaborn
+
 pip install numpy
 pip install sklearn
 pip install gensim
 pip install pandas
+
+pip install beautifulsoup4
 
 # https://www.tensorflow.org/install
 pip install tensorflow # 2.1
