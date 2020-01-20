@@ -3,6 +3,8 @@
 ## Notebooks
 
 - [공공 데이터 - 아파트 매매 실거래자료 수집](https://github.com/1ambda/jupyter-playground/blob/master/exploration-pubilc-data-gov/crawl-apt-trade.ipynb)
+- [공공 데이터 - 아파트 전월세 자료 수집](https://github.com/1ambda/jupyter-playground/blob/master/exploration-pubilc-data-gov/crawl-apt-rent.ipynb)
+- [통계청, 행정표준코드관리 시스템 - 법정동, 행정동 코드 및 매핑](https://github.com/1ambda/jupyter-playground/blob/master/exploration-pubilc-data-gov/district-code-crawl.ipynb)
 
 
 ## Environment
