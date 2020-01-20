@@ -28,6 +28,9 @@ pip install beautifulsoup4
 # https://www.tensorflow.org/install
 pip install tensorflow # 2.1
 
+# https://pytorch.org/get-started/locally/
+pip install torch torchvision
+
 # https://jupyter.readthedocs.io/en/latest/install.html
 pip install jupyter
 pip install jupyterlab
