@@ -6,4 +6,5 @@
 - (도로명 주소 개발자 센터) http://www.juso.go.kr/addrlink/addressBuildDevNew.do?menu=post
 - (행정동 경계) https://github.com/vuski/admdongkor
 - (PublicDataReader) https://github.com/WooilJeong/PublicDataReader/blob/master/PublicDataReader/PublicDataPortal/AptTransaction.py
+- (통계청 - 행정동) https://kssc.kostat.go.kr:8443/ksscNew_web/index.jsp#
 
