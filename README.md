@@ -10,6 +10,8 @@
 ## Environment
 
 ```bash
+brew install graphviz
+
 pyenv virtualenv 3.7.2 jupyter-playground
 pyenv activate jupyter-playground
 
@@ -19,6 +21,7 @@ pip install nltk
 
 pip install matplotlib
 pip install seaborn
+pip install graphviz
 
 pip install numpy
 pip install sklearn
@@ -26,6 +29,9 @@ pip install gensim
 pip install pandas
 
 pip install beautifulsoup4
+
+# pip install xgboost
+pip install xgboost
 
 # https://www.tensorflow.org/install
 pip install tensorflow # 2.1
